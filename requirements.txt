@@ -2,4 +2,5 @@ streamlit
 py3Dmol
 stmol
 pandas
-ipython
+ipython_genutils
+ipywidgets
